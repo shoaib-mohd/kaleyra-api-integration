@@ -6,10 +6,10 @@
 In this project, you can use Kaleyra API's to send sms to anyone easily.
 
 - APIS
-    - http://localhost:8000/kaleyra/status/
-    - http://localhost:8000/kaleyra/sms/
+    - http://localhost:5000/kaleyra/status/
+    - http://localhost:5000/kaleyra/sms/
 
-## Paulod
+## Paylod
 
 ```json
 {
@@ -25,7 +25,5 @@ In this project, you can use Kaleyra API's to send sms to anyone easily.
 
 - First of all, clone the project
 - Install the dependencies by using ""pip install -r requirements.txt" command
-- "python project/app.py -p 8000" command to start the project
-- Then you can use the project api's and integrate in your project as well
-
-
+- "python project/app.py" command to start the project
+- Then you can use the project api's and integrate in your project as well.
