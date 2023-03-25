@@ -10,7 +10,7 @@ class kaleyra:
     def send(self, req):
         '''
         {
-            "to": 918439598367,
+            "to": 91XXXXXXXXXX,
             "sender": "SHOW",
             "type": "TXN",
             "body": "Example SMS Send",
