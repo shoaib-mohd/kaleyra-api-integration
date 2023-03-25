@@ -21,7 +21,7 @@ In this project, you can use Kaleyra API's to send sms to anyone easily.
 }
 ```
 
-## Project Start Guide:
+### Project Start Guide:
 
 - First of all, clone the project
 - Install the dependencies by using ""pip install -r requirements.txt" command
