@@ -27,3 +27,8 @@ In this project, you can use Kaleyra API's to send sms to anyone easily.
 - Install the dependencies by using ""pip install -r requirements.txt" command
 - "python project/app.py" command to start the project
 - Then you can use the project api's and integrate in your project as well.
+
+
+# HRMS Docs
+
+[https://whimsical.com/wpms-RBskoya5fuAVgHQgqCtdf4](https://whimsical.com/wpms-RBskoya5fuAVgHQgqCtdf4)
